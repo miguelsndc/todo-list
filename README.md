@@ -80,6 +80,8 @@ $ yarn start // or npm start
   
 ```
 
+💖 Enjoy 💖
+
 ## 📝 License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/miguelsndc/public-photo-gallery/blob/main/LICENSE) for more information.
